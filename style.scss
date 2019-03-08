@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.project {
+  border-radius: 2px;
+  padding: 10px 5px;
+  text-decoration: none;
+  color: #fff;
+  background: #666;
+
+  &:hover {
+    background: #333;
+  }
+}
