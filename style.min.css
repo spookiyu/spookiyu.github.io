@@ -1,1 +1,1 @@
-#container{position:absolute;top:50%;margin:0 auto;text-align:center;transform:translateY(-50%)}.project{border-radius:2px;padding:10px 15px;text-decoration:none;color:#fff;background:#666}.project:hover{background:#444}
+html,body{height:100%;width:100%;margin:0 auto;padding:0}#container{position:absolute;top:50%;width:100%;text-align:center;transform:translateY(-50%)}.project{border-radius:2px;padding:10px 15px;text-decoration:none;color:#fff;background:#666}.project:hover{background:#444}
